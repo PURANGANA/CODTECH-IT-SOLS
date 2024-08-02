@@ -5,8 +5,9 @@
 * Duration: July 10,2024 to August 10,2024 
 * Mentor: Muzammil Ahmed
 # Overview of the project
-! ("C:\Users\LENOVO\OneDrive\Pictures\Screenshots\Screenshot (134).png")
-* Project: Data Processing 
+![Screenshot (134)](https://github.com/user-attachments/assets/d8089936-bc8c-478d-bbbd-fed61e8a6590) 
+* Project
+: Data Processing 
 * Objective: The objective of this project is to preprocess the data before applying AI algorithms to ensure its quality and suitability for analysis. This task   involves cleaning, transforming, and preparing raw data for AI model training. In this project data comparison is done through various data visualizations.
 # Key activities
 * Data cleaning: Fixing or removing incorrect, corrupted, incorrectly formatted, duplicate, or incomplete data within the dataset.
